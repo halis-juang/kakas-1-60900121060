@@ -1,0 +1,4 @@
+fun namaFungsi(parameter1: TipeData1, parameter2: TipeData2): TipeDataKembalian {
+    // Badan fungsi
+    return hasil
+}
